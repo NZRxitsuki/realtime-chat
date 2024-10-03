@@ -1,17 +1,13 @@
 {
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
-    "@whiskeysockets/baileys": "^6.7.8",
     "axios": "^1.7.7",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "nodemailer": "^6.9.15",
-    "openai": "^4.57.0",
     "qrcode": "^1.5.4",
     "qrcode-terminal": "^0.12.0",
     "react": "^18.3.1",
-    "ws": "^8.18.0",
-    "ytdl-core": "^4.11.5"
+    "ws": "^8.18.0"
   },
   "name": "nodejs",
   "version": "1.0.0",
