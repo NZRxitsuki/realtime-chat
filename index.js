@@ -15,8 +15,7 @@ let time_count_server = 0
 
 //pesan yang akan dikirimkan server
 const server = `
-    Saya adalah bot milik nazril
-    dan saya akan melakukan tugas apapun yang diberikan
+    Saat ini masih dalam pengembangan!❌
 `
 const date = new Date()
 const time = {
